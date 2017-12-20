@@ -1,5 +1,7 @@
 # ArduinoML for Pharo
 
+ArduinoML meta-model and code generator on top on Pharo : http://www.pharo.org/
+
 ## DSL example
 ```Smalltalk
 | myApp result |
